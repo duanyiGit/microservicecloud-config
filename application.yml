@@ -6,10 +6,10 @@ spring:
 spring:
  profies: dev #开发环境
  application:
-    name: microservicecloud-conifg-dev
+    name: microservicecloud-config-dev
 
 ---
 spring:
  profies: test #测试环境
  application:
-    name: microservicecloud-conifg-test     
+    name: microservicecloud-config-test     
